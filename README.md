@@ -1,0 +1,1 @@
+# privozik-launcher-releases
